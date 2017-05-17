@@ -9,7 +9,7 @@ Version 1
 Introduction
 ============
 
-The Deputy Minister’s Council for Transformation and Technology (DMCTT) asked the Government Chief Information Officer to produce an Enterprise Business Architecture (EBA) for use as a reference point when assessing the alignment between the needs of our citizens, the Province’s strategic business objectives, and our long-term IMIT investments. Specifically, the EBA was asked to deliver:
+The Deputy Minister’s Council for Transformation and Technology (DMCTT) asked the Government Chief Information Officer (GCIO) to produce an Enterprise Business Architecture (EBA) for use as a reference point when assessing the alignment between the needs of our citizens, the Province’s strategic business objectives, and our long-term IMIT investments. Specifically, the EBA was asked to deliver:
 
 1.  A record of collective EBA decisions that government has made to support the execution of its strategic directives and service transformation
 
